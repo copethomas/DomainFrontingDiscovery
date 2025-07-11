@@ -114,8 +114,8 @@ start_time = time.time()
 
 print(f"Starting to crawl {total_domains} domains...")
 
-# Create a ThreadPoolExecutor with 30 worker threads
-with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+# Create a ThreadPoolExecutor with 10 worker threads
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
     # Submit all tasks to the executor
     futures = [executor.submit(crawl_domain, row) for _, row in df_cdn_domains.iterrows()]
 
