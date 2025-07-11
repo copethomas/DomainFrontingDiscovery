@@ -1,0 +1,2579 @@
+Starting to crawl 468997 domains...
+Crawling linkedin.com from CDN :: Microsoft_Azure_CDN
+Crawling googleapis.com from CDN :: Google_Cloud_CDN
+Crawling gstatic.com from CDN :: Google_Cloud_CDN
+Crawling appsflyersdk.com from CDN :: Amazon_CloudFront
+Crawling cloudflare.com from CDN :: Cloudflare
+Crawling youtu.be from CDN :: Google_Cloud_CDN
+Crawling workers.dev from CDN :: Cloudflare
+Crawling amazonaws.com from CDN :: Amazon_CloudFront
+Crawling twitter.com from CDN :: Cloudflare
+Crawling pinterest.com from CDN :: Fastly
+Crawling digicert.com from CDN :: Imperva_CDN
+Crawling googletagmanager.com from CDN :: Google_Cloud_CDN
+Crawling tiktok.com from CDN :: Akamai
+Crawling x.com from CDN :: Cloudflare
+Crawling bing.com from CDN :: Microsoft_Azure_CDN
+Crawling office365.com from CDN :: Microsoft_Azure_CDN
+Crawling sharepoint.com from CDN :: Microsoft_Azure_CDN
+Crawling netflix.com from CDN :: Amazon_CloudFront
+Crawling microsoft.com from CDN :: Microsoft_Azure_CDN
+Crawling google-analytics.com from CDN :: Google_Cloud_CDN
+Crawling fastly.net from CDN :: Fastly
+Crawling doubleclick.net from CDN :: Google_Cloud_CDN
+Crawling bit.ly from CDN :: Google_Cloud_CDN
+Crawling googleusercontent.com from CDN :: Google_Cloud_CDN
+Crawling cloudflare.net from CDN :: Cloudflare
+Crawling youtube.com from CDN :: Google_Cloud_CDN
+Crawling googlesyndication.com from CDN :: Google_Cloud_CDN
+Crawling spotify.com from CDN :: Google_Cloud_CDN
+Crawling mozilla.org from CDN :: Google_Cloud_CDN
+Crawling qq.com from CDN :: Tencent
+Error while crawling qq.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling windows.com from CDN :: Microsoft_Azure_CDN
+Error while crawling workers.dev: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling snapchat.com from CDN :: Google_Cloud_CDN
+Error while crawling linkedin.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+[3462836:3463369:0711/190728.523490:ERROR:components/segmentation_platform/internal/database/ukm_database_backend.cc:147] Failed to open UKM database: 0 database or disk is full
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling zoom.us from CDN :: Cloudflare
+Error while crawling appsflyersdk.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling unity3d.com from CDN :: Akamai
+Error while crawling amazonaws.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling baidu.com from CDN :: Baidu
+Error while crawling youtube.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling googleadservices.com from CDN :: Google_Cloud_CDN
+Error while crawling pinterest.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling ui.com from CDN :: Amazon_CloudFront
+Error while crawling youtu.be: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling nginx.org from CDN :: Amazon_CloudFront
+Error while crawling google-analytics.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling outlook.com from CDN :: Microsoft_Azure_CDN
+Error while crawling digicert.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 10/468997 domains (0.0%)
+Successful: 0, Failed: 10
+Remaining: 468987 domains
+Elapsed time: 0:00:01
+Estimated time remaining: 15:40:53
+------------------------
+
+Crawling sentry.io from CDN :: Google_Cloud_CDN
+Error while crawling netflix.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling cloudflare-dns.com from CDN :: Cloudflare
+Error while crawling googlesyndication.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling app-measurement.com from CDN :: Google_Cloud_CDN
+Error while crawling twitter.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling nist.gov from CDN :: Cloudflare
+Error while crawling googleapis.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling lencr.org from CDN :: Amazon_CloudFront
+Error while crawling cloudflare.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling apache.org from CDN :: Fastly
+Error while crawling spotify.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling azure.com from CDN :: Microsoft_Azure_CDN
+Error while crawling googleusercontent.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling github.io from CDN :: Fastly
+Error while crawling bit.ly: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling google.com from CDN :: Google_Cloud_CDN
+Error while crawling sharepoint.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling telekom.de from CDN :: Amazon_CloudFront
+Error while crawling fastly.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 20/468997 domains (0.0%)
+Successful: 0, Failed: 20
+Remaining: 468977 domains
+Elapsed time: 0:00:01
+Estimated time remaining: 9:57:40
+------------------------
+
+Crawling skype.com from CDN :: Microsoft_Azure_CDN
+Error while crawling mozilla.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling goo.gl from CDN :: Google_Cloud_CDN
+Error while crawling microsoft.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling applovin.com from CDN :: Cloudflare
+Error while crawling snapchat.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling windows.net from CDN :: Microsoft_Azure_CDN
+Error while crawling baidu.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at Interface.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at Interface.emit (node:events:519:35)
+    at Interface.close (node:internal/readline/interface:559:10)
+    at Socket.onend (node:internal/readline/interface:273:10)
+    at Socket.emit (node:events:519:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Node.js v24.2.0
+
+Crawling dns.google from CDN :: Google_Cloud_CDN
+Error while crawling windows.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling adobe.com from CDN :: Akamai
+Error while crawling bing.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling googledomains.com from CDN :: Google_Cloud_CDN
+Error while crawling outlook.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+[3464198:3464198:0711/190730.116348:ERROR:chrome/browser/profiles/pref_service_builder_utils.cc:61] Could not create README file.
+[3464198:3464510:0711/190730.152160:ERROR:components/segmentation_platform/internal/database/ukm_database_backend.cc:147] Failed to open UKM database: 0 database or disk is full
+[3464198:3464198:0711/190730.153111:ERROR:components/history/core/browser/history_service.cc:1535] HistoryService::Init() failed by way of VisitDelegate::Init failing
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling tiktokv.com from CDN :: Akamai
+Error while crawling x.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling pki.goog from CDN :: Google_Cloud_CDN
+Error while crawling googleadservices.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling paypal.com from CDN :: Fastly
+Error while crawling doubleclick.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 30/468997 domains (0.0%)
+Successful: 0, Failed: 30
+Remaining: 468967 domains
+Elapsed time: 0:00:02
+Estimated time remaining: 12:37:46
+------------------------
+
+Crawling nytimes.com from CDN :: Fastly
+Error while crawling zoom.us: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling amazonvideo.com from CDN :: Amazon_CloudFront
+Error while crawling googletagmanager.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at Interface.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at Interface.emit (node:events:519:35)
+    at Interface.close (node:internal/readline/interface:559:10)
+    at Socket.onend (node:internal/readline/interface:273:10)
+    at Socket.emit (node:events:519:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Node.js v24.2.0
+
+Crawling vimeo.com from CDN :: Cloudflare
+Error while crawling app-measurement.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+Error while crawling telekom.de: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling trbcdn.net from CDN :: cdnvideo
+Error while crawling unity3d.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling amazon.com from CDN :: Amazon_CloudFront
+Error while crawling nginx.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling forms.gle from CDN :: Fastly
+
+Crawling criteo.com from CDN :: Fastly
+Error while crawling office365.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling app-analytics-services.com from CDN :: Google_Cloud_CDN
+Error while crawling gstatic.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling example.com from CDN :: Akamai
+Error while crawling azure.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling intuit.com from CDN :: Akamai
+Error while crawling tiktok.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 40/468997 domains (0.0%)
+Successful: 0, Failed: 40
+Remaining: 468957 domains
+Elapsed time: 0:00:02
+Estimated time remaining: 9:44:18
+------------------------
+
+Crawling gmail.com from CDN :: Google_Cloud_CDN
+Error while crawling cloudflare.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling cnn.com from CDN :: Fastly
+Error while crawling goo.gl: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling shopify.com from CDN :: Cloudflare
+Error while crawling skype.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling flickr.com from CDN :: Amazon_CloudFront
+Error while crawling windows.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling casalemedia.com from CDN :: Cloudflare
+Error while crawling applovin.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling aliyuncs.com from CDN :: Alibaba_Cloud
+Error while crawling adobe.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling medium.com from CDN :: Cloudflare
+Error while crawling dns.google: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling discord.gg from CDN :: Cloudflare
+Error while crawling googledomains.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling soundcloud.com from CDN :: Amazon_CloudFront
+Error while crawling paypal.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling theguardian.com from CDN :: Fastly
+Error while crawling gmail.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 50/468997 domains (0.0%)
+Successful: 0, Failed: 50
+Remaining: 468947 domains
+Elapsed time: 0:00:04
+Estimated time remaining: 11:56:03
+------------------------
+
+Crawling w3.org from CDN :: Cloudflare
+Error while crawling cloudflare-dns.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling meraki.com from CDN :: Amazon_CloudFront
+Error while crawling ui.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling forbes.com from CDN :: Fastly
+Error while crawling nytimes.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling taboola.com from CDN :: Fastly
+Error while crawling example.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling slack.com from CDN :: Amazon_CloudFront
+Error while crawling tiktokv.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling pubmatic.com from CDN :: Amazon_CloudFront
+Error while crawling lencr.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling t.co from CDN :: Cloudflare
+Error while crawling app-analytics-services.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling twitch.tv from CDN :: Fastly
+Error while crawling amazonvideo.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling bbc.com from CDN :: Fastly
+Error while crawling cnn.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling bbc.co.uk from CDN :: Fastly
+Error while crawling pki.goog: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 60/468997 domains (0.0%)
+Successful: 0, Failed: 60
+Remaining: 468937 domains
+Elapsed time: 0:00:05
+Estimated time remaining: 11:11:17
+------------------------
+
+Crawling vungle.com from CDN :: Cloudflare
+Error while crawling criteo.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling chatgpt.com from CDN :: Lumen
+Error while crawling trbcdn.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling creativecommons.org from CDN :: Cloudflare
+Error while crawling casalemedia.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling comcast.net from CDN :: Comcast_Technology_Solutions
+Error while crawling intuit.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling ebay.com from CDN :: Akamai
+Error while crawling shopify.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling b-cdn.net from CDN :: CDN77
+Error while crawling apache.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling weather.com from CDN :: Akamai
+Error while crawling medium.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling scorecardresearch.com from CDN :: Lumen
+Error while crawling github.io: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling discord.com from CDN :: Cloudflare
+Error while crawling sentry.io: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling sourceforge.net from CDN :: Cloudflare
+Error while crawling google.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 70/468997 domains (0.0%)
+Successful: 0, Failed: 70
+Remaining: 468927 domains
+Elapsed time: 0:00:06
+Estimated time remaining: 11:18:08
+------------------------
+
+Crawling mit.edu from CDN :: Akamai
+Error while crawling nist.gov: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling ampproject.org from CDN :: Google_Cloud_CDN
+Error while crawling meraki.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling imdb.com from CDN :: Amazon_CloudFront
+Error while crawling pubmatic.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling canva.com from CDN :: Cloudflare
+Error while crawling twitch.tv: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling roku.com from CDN :: Cloudflare
+Error while crawling amazon.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling crashlytics.com from CDN :: Google_Cloud_CDN
+Error while crawling creativecommons.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling openai.com from CDN :: Cloudflare
+Error while crawling w3.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling adtrafficquality.google from CDN :: Google_Cloud_CDN
+Error while crawling theguardian.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling youtube-nocookie.com from CDN :: Google_Cloud_CDN
+Error while crawling bbc.co.uk: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling temu.com from CDN :: Fastly
+Error while crawling comcast.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 80/468997 domains (0.0%)
+Successful: 0, Failed: 80
+Remaining: 468917 domains
+Elapsed time: 0:00:07
+Estimated time remaining: 11:39:09
+------------------------
+
+Crawling linktr.ee from CDN :: Fastly
+Error while crawling t.co: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling hubspot.com from CDN :: Cloudflare
+Error while crawling vungle.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+Starting to crawl 468997 domains...
+Crawling linkedin.com from CDN :: Microsoft_Azure_CDN
+Crawling googleapis.com from CDN :: Google_Cloud_CDN
+Crawling gstatic.com from CDN :: Google_Cloud_CDN
+Crawling appsflyersdk.com from CDN :: Amazon_CloudFront
+Crawling cloudflare.com from CDN :: Cloudflare
+Crawling youtu.be from CDN :: Google_Cloud_CDN
+Crawling workers.dev from CDN :: Cloudflare
+Crawling amazonaws.com from CDN :: Amazon_CloudFront
+Crawling twitter.com from CDN :: Cloudflare
+Crawling pinterest.com from CDN :: Fastly
+Crawling digicert.com from CDN :: Imperva_CDN
+Crawling googletagmanager.com from CDN :: Google_Cloud_CDN
+Crawling tiktok.com from CDN :: Akamai
+Crawling x.com from CDN :: Cloudflare
+Crawling bing.com from CDN :: Microsoft_Azure_CDN
+Crawling office365.com from CDN :: Microsoft_Azure_CDN
+Crawling sharepoint.com from CDN :: Microsoft_Azure_CDN
+Crawling netflix.com from CDN :: Amazon_CloudFront
+Crawling microsoft.com from CDN :: Microsoft_Azure_CDN
+Crawling google-analytics.com from CDN :: Google_Cloud_CDN
+Crawling fastly.net from CDN :: Fastly
+Crawling doubleclick.net from CDN :: Google_Cloud_CDN
+Crawling bit.ly from CDN :: Google_Cloud_CDN
+Crawling googleusercontent.com from CDN :: Google_Cloud_CDN
+Crawling cloudflare.net from CDN :: Cloudflare
+Crawling youtube.com from CDN :: Google_Cloud_CDN
+Crawling googlesyndication.com from CDN :: Google_Cloud_CDN
+Crawling spotify.com from CDN :: Google_Cloud_CDN
+Crawling mozilla.org from CDN :: Google_Cloud_CDN
+Crawling qq.com from CDN :: Tencent
+Error while crawling doubleclick.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling windows.com from CDN :: Microsoft_Azure_CDN
+Error while crawling youtu.be: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling snapchat.com from CDN :: Google_Cloud_CDN
+Error while crawling digicert.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling zoom.us from CDN :: Cloudflare
+Error while crawling tiktok.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling unity3d.com from CDN :: Akamai
+Error while crawling gstatic.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling baidu.com from CDN :: Baidu
+Error while crawling spotify.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling googleadservices.com from CDN :: Google_Cloud_CDN
+Error while crawling googlesyndication.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling ui.com from CDN :: Amazon_CloudFront
+Error while crawling mozilla.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling nginx.org from CDN :: Amazon_CloudFront
+Error while crawling googletagmanager.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling outlook.com from CDN :: Microsoft_Azure_CDN
+Error while crawling youtube.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+[0711/191116.736465:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+[0711/191116.737959:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+[0711/191116.738050:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+[0711/191116.738104:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+[0711/191116.738143:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 10/468997 domains (0.0%)
+Successful: 0, Failed: 10
+Remaining: 468987 domains
+Elapsed time: 0:00:01
+Estimated time remaining: 15:42:48
+------------------------
+
+Crawling sentry.io from CDN :: Google_Cloud_CDN
+Error while crawling bit.ly: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling cloudflare-dns.com from CDN :: Cloudflare
+Error while crawling appsflyersdk.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling app-measurement.com from CDN :: Google_Cloud_CDN
+Error while crawling bing.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling nist.gov from CDN :: Cloudflare
+Error while crawling netflix.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling lencr.org from CDN :: Amazon_CloudFront
+Error while crawling cloudflare.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling apache.org from CDN :: Fastly
+Error while crawling google-analytics.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling azure.com from CDN :: Microsoft_Azure_CDN
+Error while crawling fastly.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling github.io from CDN :: Fastly
+Error while crawling sharepoint.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling google.com from CDN :: Google_Cloud_CDN
+Error while crawling googleusercontent.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling telekom.de from CDN :: Amazon_CloudFront
+Error while crawling workers.dev: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 20/468997 domains (0.0%)
+Successful: 0, Failed: 20
+Remaining: 468977 domains
+Elapsed time: 0:00:01
+Estimated time remaining: 9:48:51
+------------------------
+
+Crawling skype.com from CDN :: Microsoft_Azure_CDN
+Error while crawling office365.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling goo.gl from CDN :: Google_Cloud_CDN
+Error while crawling pinterest.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling applovin.com from CDN :: Cloudflare
+Error while crawling baidu.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling windows.net from CDN :: Microsoft_Azure_CDN
+Error while crawling microsoft.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling dns.google from CDN :: Google_Cloud_CDN
+Error while crawling windows.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling adobe.com from CDN :: Akamai
+Error while crawling cloudflare.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling googledomains.com from CDN :: Google_Cloud_CDN
+Error while crawling snapchat.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling tiktokv.com from CDN :: Akamai
+Error while crawling ui.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling pki.goog from CDN :: Google_Cloud_CDN
+Error while crawling linkedin.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling paypal.com from CDN :: Fastly
+Error while crawling qq.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 30/468997 domains (0.0%)
+Successful: 0, Failed: 30
+Remaining: 468967 domains
+Elapsed time: 0:00:02
+Estimated time remaining: 10:26:57
+------------------------
+
+Crawling nytimes.com from CDN :: Fastly
+Error while crawling zoom.us: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling amazonvideo.com from CDN :: Amazon_CloudFront
+Error while crawling goo.gl: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling vimeo.com from CDN :: Cloudflare
+Error while crawling app-measurement.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling trbcdn.net from CDN :: cdnvideo
+Error while crawling outlook.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+[0711/191118.295415:WARNING:third_party/crashpad/crashpad/snapshot/linux/process_reader_linux.cc:146] no stack mapping
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling amazon.com from CDN :: Amazon_CloudFront
+Error while crawling googleapis.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling forms.gle from CDN :: Fastly
+Error while crawling azure.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling criteo.com from CDN :: Fastly
+Error while crawling unity3d.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling app-analytics-services.com from CDN :: Google_Cloud_CDN
+Error while crawling twitter.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling example.com from CDN :: Akamai
+Error while crawling skype.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling intuit.com from CDN :: Akamai
+Error while crawling lencr.org: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 40/468997 domains (0.0%)
+Successful: 0, Failed: 40
+Remaining: 468957 domains
+Elapsed time: 0:00:03
+Estimated time remaining: 9:49:33
+------------------------
+
+Crawling gmail.com from CDN :: Google_Cloud_CDN
+Error while crawling nist.gov: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling cnn.com from CDN :: Fastly
+Error while crawling x.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling shopify.com from CDN :: Cloudflare
+Error while crawling amazonaws.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling flickr.com from CDN :: Amazon_CloudFront
+Error while crawling google.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling casalemedia.com from CDN :: Cloudflare
+Error while crawling windows.net: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling aliyuncs.com from CDN :: Alibaba_Cloud
+Error while crawling dns.google: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling medium.com from CDN :: Cloudflare
+Error while crawling adobe.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling discord.gg from CDN :: Cloudflare
+Error while crawling amazonvideo.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling soundcloud.com from CDN :: Amazon_CloudFront
+Error while crawling paypal.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling theguardian.com from CDN :: Fastly
+Error while crawling vimeo.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+
+--- Progress Update ---
+Completed: 50/468997 domains (0.0%)
+Successful: 0, Failed: 50
+Remaining: 468947 domains
+Elapsed time: 0:00:04
+Estimated time remaining: 11:16:44
+------------------------
+
+Crawling w3.org from CDN :: Cloudflare
+Error while crawling tiktokv.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling meraki.com from CDN :: Amazon_CloudFront
+Error while crawling nytimes.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling forbes.com from CDN :: Fastly
+Error while crawling googledomains.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at Interface.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at Interface.emit (node:events:519:35)
+    at Interface.close (node:internal/readline/interface:559:10)
+    at Socket.onend (node:internal/readline/interface:273:10)
+    at Socket.emit (node:events:519:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+Node.js v24.2.0
+
+Crawling taboola.com from CDN :: Fastly
+Error while crawling criteo.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling slack.com from CDN :: Amazon_CloudFront
+Error while crawling app-analytics-services.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling pubmatic.com from CDN :: Amazon_CloudFront
+Error while crawling googleadservices.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling t.co from CDN :: Cloudflare
+Error while crawling cloudflare-dns.com: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0
+
+Crawling twitch.tv from CDN :: Fastly
+Error while crawling sentry.io: Process exited with code 1
+Error output: /home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325
+                reject(new Error([
+                       ^
+
+Error: Failed to launch the browser process!
+[3470377:3470377:0711/191117.782485:ERROR:chrome/browser/profiles/pref_service_builder_utils.cc:61] Could not create README file.
+[3470377:3470644:0711/191117.811616:ERROR:components/segmentation_platform/internal/database/ukm_database_backend.cc:147] Failed to open UKM database: 0 database or disk is full
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+    at ChildProcess.onClose (/home/tom/Documents/Research/DomainFrontingDiscovery/node_modules/@puppeteer/browsers/lib/cjs/launch.js:325:24)
+    at ChildProcess.emit (node:events:519:35)
+    at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+
+Node.js v24.2.0

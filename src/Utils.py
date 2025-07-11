@@ -29,7 +29,7 @@ class FrontingUtils:
         try:
             extract = tldextract.TLDExtract()
             ext = extract(url)
-            return '.'.join(part for part in ext if part)
+            return ext.domain + '.' + ext.suffix
         except Exception as e:
             print(e)
             return None
@@ -44,14 +44,14 @@ class FrontingUtils:
             headers = {}
             try:
                 visited_domain = dir.split('_')[1]
-                related_domains = df_cdn_domains[df_cdn_domains['domain_sld']==visited_domain]['full_domain'].unique().tolist()
-                file = os.path.join(crawler_results_path, dir,visited_domain+'_headers.json')
+                related_domains = visited_domain
+                file = os.path.join(crawler_results_path, dir, visited_domain + '_headers.json')
                 with open(file,'r') as f:
                     headers = json.load(f)
                 res_count = 0
                 for rec in headers['table']:
                     url_dom = FrontingUtils.get_full_domain(rec['response_url'])
-                 
+
                     ### Fitler URLs to only retaint hose that share the same domain that's of interest
                     if url_dom in related_domains :
                         res_det = {'cdn': dir.split('_')[0],
@@ -64,7 +64,7 @@ class FrontingUtils:
                 
                         resources.append(res_det)
                         res_count += 1
-                
+
             except Exception as e:
                 print(e)
                 continue

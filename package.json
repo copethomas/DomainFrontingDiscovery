@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^24.12.1",
+    "tld-extract": "^2.1.0"
+  }
+}

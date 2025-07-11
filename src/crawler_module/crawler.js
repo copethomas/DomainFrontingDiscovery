@@ -24,7 +24,15 @@ var file_name = dom.replace("/", "_")
 var sld = cdn+"_"+dom;
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+  headless: true,
+  executablePath: '/home/tom/.cache/puppeteer/chrome/linux-138.0.7204.94/chrome-linux64/chrome',
+  args: [
+    '--disable-gpu',
+  ]
+});
+
+
   const page = await browser.newPage();
   page.on('response', logResponse);
 
