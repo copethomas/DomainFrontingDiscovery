@@ -29,6 +29,8 @@ var sld = cdn+"_"+dom;
   executablePath: '/home/tom/.cache/puppeteer/chrome/linux-138.0.7204.94/chrome-linux64/chrome',
   args: [
     '--disable-gpu',
+    '--no-sandbox', 
+    '--disable-setuid-sandbox',
   ]
 });
 
