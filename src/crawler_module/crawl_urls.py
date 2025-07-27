@@ -123,4 +123,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
     concurrent.futures.wait(futures)
 
 #We will sort this later
-#FrontingUtils.filter_urls(config['FILE_PATHS']['cdn_domain_mapping_file_path'], config['FILE_PATHS']['domain_url_mapping_file_path'])
+FrontingUtils.filter_urls(config['FILE_PATHS']['cdn_domain_mapping_file_path'], config['FILE_PATHS']['domain_url_mapping_file_path'])
