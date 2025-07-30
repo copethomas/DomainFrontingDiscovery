@@ -97,24 +97,33 @@ class FrontingTester:
         if hostname in self.host_name_certificates:
             return
         
-        context = ssl.create_default_context()
-        with socket.create_connection((hostname, 443)) as sock:
-            with context.wrap_socket(sock, server_hostname=hostname) as ssock:
-                cert = ssock.getpeercert()
-                san = [entry[1] for entry in cert.get('subjectAltName', ()) if entry[0] == 'DNS']
-                subject_terms = [s for sub in  cert['subject'] for s in  list(chain.from_iterable(sub))]
-                common_name = subject_terms[subject_terms.index('commonName')+1]
+        try:
+            context = ssl.create_default_context()
+            with socket.create_connection((hostname, 443)) as sock:
+                with context.wrap_socket(sock, server_hostname=hostname) as ssock:
+                    cert = ssock.getpeercert()
+                    san = [entry[1] for entry in cert.get('subjectAltName', ()) if entry[0] == 'DNS']
+                    subject_terms = [s for sub in  cert['subject'] for s in  list(chain.from_iterable(sub))]
+                    common_name = subject_terms[subject_terms.index('commonName')+1]
 
                 if common_name:
                     self.host_name_certificates[hostname] = {
                         "CN":  common_name,
                         "SAN": san
                     }
+        except Exception as e:
+            # Do nothing on certificate verification failures or connection issues
+            print("error during 'get_certificate_details' for ", hostname, " : ", e, "")
+            pass
 
 
     def validate_test(self, dom1, dom2):
+        if FrontingUtils.get_SLD(dom1) == FrontingUtils.get_SLD(dom2):
+            return False
+        if self.is_owned_by_same_organisation(dom1,dom2):
+            return False
 
-        return (FrontingUtils.get_SLD(dom1)!= FrontingUtils.get_SLD(dom2)) and (not self.is_owned_by_same_organisation(dom1,dom2))
+        return True
                                     
 
     def validate_test_results(self):
@@ -175,7 +184,7 @@ class FrontingTester:
             all_test_results = []
             for key in group_counts['cdn'].tolist():
                 
-                group = df_groups.get_group(key)
+                group = df_groups.get_group((key,))
                 
                 for domain, dom_group in group.groupby(by=['original_domain']):
                     cdn_dets[key].update({domain: dom_group['resource_url'].unique().tolist()})
@@ -188,58 +197,64 @@ class FrontingTester:
                 cdn = cdn.split(".")[0]
                 futures={}
                 with cf.ThreadPoolExecutor(max_workers=20) as executor:
-                    try:
-                        ## Check if there's atleast two domains per CDN
-                        if len(domain_dets)>1:
-                            max_dom_count = int(config['PARAMS']['max_domain_count_per_cdn'])
-                            domains = sorted(domain_dets, key = lambda k : len(set(domain_dets[k])), reverse = True)[:max_dom_count]
 
-                            ### Note that any domain linked with the same CDN can be used as front domain even if an associated URL was not found. This is useful in case only few number of target domains were found. 
-                            front_domains = list(set(domains + self.df_cdn_domains[self.df_cdn_domains["cdn"]==cdn]["full_domain"].unique().tolist()))[:max_dom_count]
-                            print(time.ctime(), f'Testing {cdn} :: {len(domains)} attack domains and {len(front_domains)} front domains in total!!')
-                            
-                            for i,dom1 in enumerate(domains):  
-                                dom1_tmp = dom1                  
-                                count = 0
-                                for j, dom2 in enumerate(front_domains):
+                    ## Check if there's atleast two domains per CDN
+                    if len(domain_dets)>1:
+                        max_dom_count = int(config['PARAMS']['max_domain_count_per_cdn'])
+                        domains = sorted(domain_dets, key = lambda k : len(set(domain_dets[k])), reverse = True)[:max_dom_count]
 
-                                    ## Test if the domains are not subdomains of each other and is not owned by the same organization
-                                    is_test_valid = self.validate_test(dom1,dom2) 
+                        ### Note that any domain linked with the same CDN can be used as front domain even if an associated URL was not found. This is useful in case only few number of target domains were found.
+                        front_domains = list(set(domains + self.df_cdn_domains[self.df_cdn_domains["cdn"]==cdn]["domain_sld"].unique().tolist()))[:max_dom_count]
+                        print(time.ctime(), f'Testing {cdn} :: {len(domains)} attack domains and {len(front_domains)} front domains in total!!')
 
-                                    if is_test_valid: 
-                                        
-                                        urls = list(set(domain_dets.get(dom1_tmp,[])))[:2]
-                                        # print(urls)
-                                        print(f'Testing {len(urls)} URLs under domain :: {dom1_tmp} front_domain {dom2}')
-                                        
-                                        for attack_url in urls:
-                                            # print("Performing Test for {} , {}, {} ".format(dom1,attack_url,dom2))
-                                            url_domain = attack_url.split('/')[2]
-                                            if dom1 != url_domain:
-                                                dom2 = url_domain.replace(dom1,dom2)
-                                                dom1 = url_domain
-                                            
-                                            if not os.path.exists(os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count))):
-                                                os.mkdir(os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count)))
-                                            
-                                            futures[executor.submit(self.test_obj.run_fronting_tests, dom1, attack_url, dom2, os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count)))] = (dom1,attack_url,dom2)
-                                            count += 1
-                                try:
-                                    for future in cf.as_completed(futures, timeout=300):
-                                        dom1,url,dom2 = futures.pop(future)
-                                        try:
-                                            test_results = future.result()
-                                            # print(test_results)
-                                            all_test_results = all_test_results + test_results
-                                            with open(config['FILE_PATHS']['test_details_file_path'],'w') as ff:
-                                                json.dump(all_test_results, ff, indent = 2) 
-                                        except Exception as er:
-                                            print(sys._getframe(  ).f_code.co_name, (dom1,url,dom2),er)
-                                except Exception as te:
-                                    print(sys._getframe(  ).f_code.co_name, len(futures), te)
-                                    pass
-                    except Exception as ex:
-                        print(ex)
+                        for i,dom1 in enumerate(domains):
+                            dom1_tmp = dom1
+                            count = 0
+                            for j, dom2 in enumerate(front_domains):
+
+                                ## Test if the domains are not subdomains of each other and is not owned by the same organization
+                                if type(dom1) is tuple or type(dom1) is list:
+                                    dom1 = dom1[0]
+
+                                if type(dom2) is tuple or type(dom2) is list:
+                                    dom2 = dom2[0]
+
+
+                                is_test_valid = self.validate_test(dom1,dom2)
+
+                                if is_test_valid:
+
+                                    urls = list(set(domain_dets.get(dom1_tmp,[])))[:2]
+                                    # print(urls)
+                                    print(f'Testing {len(urls)} URLs under domain :: {dom1_tmp} front_domain {dom2}')
+
+                                    for attack_url in urls:
+                                        # print("Performing Test for {} , {}, {} ".format(dom1,attack_url,dom2))
+                                        url_domain = attack_url.split('/')[2]
+                                        if dom1 != url_domain:
+                                            dom2 = url_domain.replace(dom1,dom2)
+                                            dom1 = url_domain
+
+                                        if not os.path.exists(os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count))):
+                                            os.mkdir(os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count)))
+
+                                        futures[executor.submit(self.test_obj.run_fronting_tests, dom1, attack_url, dom2, os.path.join(self.result_path,cdn+'_'+dom1+'_'+str(count)))] = (dom1,attack_url,dom2)
+                                        count += 1
+                            try:
+                                for future in cf.as_completed(futures, timeout=300):
+                                    dom1,url,dom2 = futures.pop(future)
+                                    try:
+                                        test_results = future.result()
+                                        # print(test_results)
+                                        all_test_results = all_test_results + test_results
+                                        with open(config['FILE_PATHS']['test_details_file_path'],'w') as ff:
+                                            json.dump(all_test_results, ff, indent = 2)
+                                    except Exception as er:
+                                        print(sys._getframe(  ).f_code.co_name, (dom1,url,dom2),er)
+                            except Exception as te:
+                                print(sys._getframe(  ).f_code.co_name, len(futures), te)
+                                pass
+
 
             with open(config['FILE_PATHS']['test_details_file_path'],'w') as ff:
                 json.dump(all_test_results, ff, indent = 2) 
