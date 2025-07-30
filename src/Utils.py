@@ -13,6 +13,8 @@ class FrontingUtils:
     def get_SLD(domain):
             try:
                 extract = tldextract.TLDExtract()
+                if type(domain) is tuple or type(domain) is list:
+                    domain = domain[0]
                 ext = extract(domain)
                 return ext.registered_domain
             except Exception as e:
