@@ -1,9 +1,13 @@
 # DomainFronting Discovery Tool
 
+This is a fork of xxx updated with patches to work with a alternative methodology described here : https://github.com/copethomas/defcon-33-domain-fronting <--- Please check out this repo before diving into this one. 
 
-# TODO update this readme 
+Full archived results from 2025-07-30 are available here: 
 
-# ALSO provide this link for people to download results https://defcon-33-domain-fronting-assets.sfo3.digitaloceanspaces.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz
+https://defcon-33-domain-fronting-assets.sfo3.digitaloceanspaces.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz
+
+
+## Original text:
 
 This project includes the source code for the tool developed as part of the research paper "Discovering and Measuring CDNs Prone to Domain Fronting" ([Link](https://doi.org/10.1145/3589334.3645656)).
 
