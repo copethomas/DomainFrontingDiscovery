@@ -1,5 +1,10 @@
 # DomainFronting Discovery Tool
 
+
+# TODO update this readme 
+
+# ALSO provide this link for people to download results https://defcon-33-domain-fronting-assets.sfo3.digitaloceanspaces.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz
+
 This project includes the source code for the tool developed as part of the research paper "Discovering and Measuring CDNs Prone to Domain Fronting" ([Link](https://doi.org/10.1145/3589334.3645656)).
 
 The tool is designed to test the possibility of Domain Fronting in Content Delivery Networks (CDNs) by crafting special requests involving existing customers of a particular CDN. Through this tool, you can assess the extent of Domain Fronting in the wild despite mitigation measures taken by popular CDN providers. Our study reveals that it is possible for adversaries to misuse Domain Fronting to hide malicious communications and emphasizes the need for additional mitigation measures that can defend against such misuse.
