@@ -1,6 +1,8 @@
 # DomainFronting Discovery Tool
 
-This is a fork of Karthika Subramani original Domain Fronting research tooling, updated with patches to work with a alternative methodology described here : https://github.com/copethomas/defcon-33-domain-fronting <--- Please check out this repo before diving into this one. 
+This is a fork of Karthika Subramani original Domain Fronting research tooling, updated with patches to work with a alternative methodology described here: 
+
+https://github.com/copethomas/defcon-33-domain-fronting - Please check out this repo before diving into this one!
 
 Full archived results from 2025-07-30 are available here: 
 
