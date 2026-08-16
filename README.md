@@ -6,7 +6,7 @@ https://github.com/copethomas/defcon-33-domain-fronting - Please check out this 
 
 Full archived results from 2025-07-30 are available here: 
 
-https://defcon-33-domain-fronting-assets.sfo3.digitaloceanspaces.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz
+[https://defcon-33-domain-fronting-assets.s3.eu-central-003.backblazeb2.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz](https://defcon-33-domain-fronting-assets.s3.eu-central-003.backblazeb2.com/DomainFrontingDiscovery_data_full_results_20250730.tar.gz)
 
 
 ## Original text:
